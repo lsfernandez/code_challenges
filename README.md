@@ -1,4 +1,4 @@
-##Code Challenges
+#Code Challenges
 En este repositorio subiré los desafíos de código que logro resolver (de webs como HackerRank, Codewars, etc) a modo de practica
 
 
